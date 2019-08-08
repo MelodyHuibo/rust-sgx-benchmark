@@ -28,6 +28,7 @@
 
 // App.cpp : Defines the entry point for the console application.
 #include <stdio.h>
+#include <time.h>
 #include <map>
 #include "Enclave1_u.h"
 #include "Enclave2_u.h"
